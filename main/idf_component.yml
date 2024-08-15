@@ -1,0 +1,8 @@
+dependencies:
+  LED:
+    git: https://github.com/Teepop109/LED_Test.git
+    path: components/LED
+
+  SEVENSEGMENT:
+    git: https://github.com/Teepop109/Esp_project.git
+    path: components/SevenSegment

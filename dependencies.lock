@@ -1,0 +1,23 @@
+dependencies:
+  LED:
+    component_hash: f0b813ad0cc12447bf0ad655b28e4c0726a3bd655b40360a770ef8b750e70e67
+    source:
+      git: https://github.com/Teepop109/LED_Test.git
+      path: components/LED
+      type: git
+    version: 256a15769ddc554ae7f75104b11dcec5afae8720
+  SEVENSEGMENT:
+    component_hash: 40c9440e04cc94cd5f1bbe6ade4dfbfe1e184aefad8b84bc6ae1570431245e39
+    source:
+      git: https://github.com/Teepop109/Esp_project.git
+      path: components/SevenSegment
+      type: git
+    version: 84cd7f61af8c569b203bccdc518900588b9d54cd
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.2.2
+manifest_hash: eb68f35ea105c1ed9420a06f48e25fe6f1628bfd55826632535b8d8766f51c79
+target: esp32
+version: 1.0.0
