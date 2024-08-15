@@ -7,12 +7,12 @@ dependencies:
       type: git
     version: 256a15769ddc554ae7f75104b11dcec5afae8720
   SEVENSEGMENT:
-    component_hash: 40c9440e04cc94cd5f1bbe6ade4dfbfe1e184aefad8b84bc6ae1570431245e39
+    component_hash: 2b081f9c759a6bf48c2695356688131fd053db22ab5a563a6f2e946455ea5ce3
     source:
       git: https://github.com/Teepop109/Esp_project.git
       path: components/SevenSegment
       type: git
-    version: 84cd7f61af8c569b203bccdc518900588b9d54cd
+    version: c020e7a871b128055f314c2c8fb5ac90b7684b68
   idf:
     component_hash: null
     source:
